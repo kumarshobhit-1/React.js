@@ -6,7 +6,7 @@ This repo contains all the practice projects, exercises, and code snippets I wro
 ---
 
 ## 📌 About
-I am currently learning **React.js** and using this repository to:
+I am learned **React.js** and using this repository to:
 - Practice React concepts
 - Experiment with components, props, and state
 - Understand hooks, routing, and API integration
@@ -22,5 +22,3 @@ I am currently learning **React.js** and using this repository to:
 - (Other libraries/tools I learn along the way)
 
 ---
-
-## 📂 Repository Structure
